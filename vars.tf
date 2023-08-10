@@ -18,3 +18,4 @@ variable "domain_id" {}
 variable "dns_name" {}
 variable "kms_arn" {}
 variable "parameters" {}
+variable "monitor_cidr" {}
